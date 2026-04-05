@@ -1,0 +1,83 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+גלה את חנות טיפוס ההרים המובילה בישראל עם ציוד מקצועי לכל רמה. חבלי טיפוס איכותיים, עיגונים, קסדות ועוד — הכל במקום אחד. הזמן עכשיו ועלה גבוה יותר!
+
+### למה Summit Beast
+https://example.com/why-summit-beast
+ציוד טיפוס הרים מקצועי שנבחר בקפידה על ידי מומחים. גלה מדוע אלפי מטפסים בישראל ובעולם סומכים על Summit Beast לכל עלייה — איכות ללא פשרות, שירות שמלווה אותך לפסגה.
+
+### יומן מסע
+https://example.com/expedition-journal
+השראה אמיתית מהשטח — מסעות טיפוס הרים, מדריכים מקצועיים וסיפורי הרפתקאות מהעולם. למד מניסיון של מטפסים מנוסים וגלה איזה ציוד טיפוס הרים ליווה אותם לפסגה.
+
+### אודות
+https://example.com/about
+Summit Beast נולדה מאהבה אמיתית לטיפוס הרים. הכר את הצוות שמאחורי חנות טיפוס ההרים המובילה בישראל — אנשי שטח שבוחרים כל פריט ציוד מתוך ניסיון אישי ותשוקה אמיתית להרים.
+
+### צור קשר
+https://example.com/contact
+יש שאלה על ציוד טיפוס הרים מקצועי? הצוות המומחה של Summit Beast כאן בשבילך. פנה אלינו לייעוץ אישי, שאלות על הזמנות או המלצות ציוד — נשמח לעזור לך לבחור נכון.
+
+### Products
+https://example.com/products
+המוצרים שלנו - Summit Beast
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - Summit Beast
+
+### Category
+https://example.com/category/:slug
+מוצרים - Summit Beast
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
